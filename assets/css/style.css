@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.login_page{
+    background-image: url(/assets/Images/Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.home_page_content{
+    height: 90vh;
+}
+.contact_page_content{
+   min-height: 90vh;
+   height: fit-content;
+
+}
+.navigation_bar{
+    background-color: #4169E1;
+}
+.content .content_item div a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.content .content_item div{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+.content .content_item div:hover{
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid black;
+    transition: 0.5s;
+}
+.footer{
+    background-color: whitesmoke;
+}
+.Course_page_content{
+    min-height: 90vh;
+    height: fit-content;
+}
+
+
+  
