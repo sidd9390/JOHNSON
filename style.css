@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .login_page{
-    background-image: url(/assets/Images/design-space-paper-textured-background.jpg);
+    background-image: url(Img/design-space-paper-textured-background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
