@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -11,8 +12,11 @@
     height: 100vh;
 }
 .home_page_content{
-    min-height: 90vh;
+    min-height: fit-content;
     height: fit-content;
+}
+.home_page_content1{
+    height: 90vh;
 }
 .contact_page_content{
    min-height: 90vh;
@@ -24,20 +28,35 @@
 }
 .content .content_item div a{
     text-decoration: none;
-    color: black;
+    color: white;
     font-size: 18px;
 }
 .content .content_item div{
-    background-color: cornflowerblue;
+    background: rgb(179, 51, 51);
+        background: linear-gradient(90deg, rgba(179, 51, 51, 1) 5%, rgba(93, 32, 32, 1) 100%, rgba(179, 51, 51, 1) 100%);
     border-radius: 5px;
     border: 1px solid transparent;
     cursor: pointer;
+    color: white;
 }
+@-webkit-keyframes test {
+    0% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1
+    }
+  }
 .content .content_item div:hover{
-    background-color: transparent;
+    background: rgb(59, 29, 29);
+        background: linear-gradient(90deg, rgba(59, 29, 29, 1) 0%, rgba(153, 41, 41, 1) 100%, rgba(179, 51, 51, 1) 100%);
     border-radius: 5px;
     border: 1px solid black;
-    transition: 0.5s;
+    -webkit-animation-name: test;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: forwards;
+    -webkit-animation-timing-function: ease-out; 
+    
 }
 .footer{
     background-color: whitesmoke;
@@ -46,6 +65,14 @@
     min-height: 90vh;
     height: fit-content;
 }
-
+.book_title{
+    font-family: 'Poppins', sans-serif;
+}
+#KG_EN{
+    display: block;
+}
+#KG_MA,#KG_GA{
+    display: none;
+}
 
   
