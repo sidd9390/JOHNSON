@@ -72,10 +72,8 @@
 .book_title{
     font-family: 'Poppins', sans-serif;
 }
-#KG_EN{
-    display: block;
-}
-#KG_MA,#KG_GA{
+
+#KG_MA,#KG_GA,#KG_EN{
     display: none;
 }
 
