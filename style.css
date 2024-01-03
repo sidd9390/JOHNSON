@@ -12,7 +12,7 @@
     height: 100vh;
 }
 .home_page_content{
-    min-height: fit-content;
+    min-height: 90vh;
     height: fit-content;
 }
 .home_page_content1{
@@ -76,6 +76,12 @@
 #KG_MA,#KG_GA,#KG_EN{
     display: none;
 }
+#UKG_MA,#UKG_GA,#UKG_EN{
+    display: none;
+}
+#LKG_MA,#LKG_GA,#LKG_EN{
+    display: none;
+}
 
 .navbar-toggler-icon {
     background-image: none!important;
@@ -94,7 +100,7 @@
     height: 3px;
     content: "";
     position: relative;
-    top: -7px;
+    top: 5px;
     transition: all 0.15s ease-out;/*taken down to hide quicker*/
     transform-origin: center;
   }
@@ -105,7 +111,7 @@
     height: 3px;
     content: "";
     position: relative;
-    top: 4px;
+    top: 18px;
     transition: all 0.35s ease-out;
     transform-origin: center;
   }
