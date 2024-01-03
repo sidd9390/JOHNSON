@@ -39,6 +39,11 @@
     border-bottom-right-radius: 5px;
     border: 1px solid transparent;
 }
+.content .content_item div .card-body h5{
+    padding: 0;
+    margin: 0;
+}
+
 
 @-webkit-keyframes test {
     0% {
