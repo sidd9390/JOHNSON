@@ -118,14 +118,4 @@
     background-color: white;
   }
   
-  .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
-    transform: rotate(45deg);
-  }
-  
-  .navbar-toggler:not(.collapsed) .navbar-toggler-icon::before {
-    opacity: 0;
-  }
-  
-  .navbar-toggler:not(.collapsed) .navbar-toggler-icon::after {
-    transform: rotate(-90deg) translateX(7px);
-  }
+ 
