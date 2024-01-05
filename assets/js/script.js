@@ -28,6 +28,21 @@ function UKG3(){
     document.getElementById("UKG_MA").style.display = "none";
     document.getElementById("UKG_GA").style.display = "block";
 }
+function G_1_1(){
+    document.getElementById("G_1_EN").style.display = "block";
+    document.getElementById("G_1_MA").style.display = "none";
+    document.getElementById("G_1_GA").style.display = "none";
+}
+function G_1_2(){
+    document.getElementById("G_1_EN").style.display = "none";
+    document.getElementById("G_1_MA").style.display = "block";
+    document.getElementById("G_1_GA").style.display = "none";
+}
+function G_1_3(){
+    document.getElementById("G_1_EN").style.display = "none";
+    document.getElementById("G_1_MA").style.display = "none";
+    document.getElementById("G_1_GA").style.display = "block";
+}
 function KG1(){
     document.getElementById("KG_EN").style.display = "block";
     document.getElementById("KG_MA").style.display = "none";

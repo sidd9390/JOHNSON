@@ -94,6 +94,9 @@
 #LKG_MA,#LKG_GA,#LKG_EN{
     display: none;
 }
+#G_1_MA,#G_1_GA,#G_1_EN{
+    display: none;
+}
 
 .navbar-toggler-icon {
     background-image: none!important;
