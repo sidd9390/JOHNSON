@@ -68,7 +68,7 @@
     -webkit-animation-duration: 1s;
     -webkit-animation-fill-mode: forwards;
     -webkit-animation-timing-function: ease-out;
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 .content .content_item {
     border-radius: 5px;
