@@ -97,6 +97,18 @@
 #G_1_MA,#G_1_GA,#G_1_EN{
     display: none;
 }
+#G_2_MA,#G_2_GA,#G_2_EN{
+    display: none;
+}
+#G_3_MA,#G_3_GA,#G_3_EN,#G_3_SI,#G_3_SO{
+    display: none;
+}
+#G_4_MA,#G_4_GA,#G_4_EN,#G_4_SI,#G_4_SO{
+    display: none;
+}
+#G_5_MA,#G_5_GA,#G_5_EN,#G_5_SI,#G_5_SO{
+    display: none;
+}
 
 .navbar-toggler-icon {
     background-image: none!important;
