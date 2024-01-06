@@ -85,28 +85,28 @@
     font-family: 'Poppins', sans-serif;
 }
 
-#KG_MA,#KG_GA,#KG_EN{
+#KG_MA,#KG_GA,#KG_EN,#KG_GK,#KG_E-G,#KG_CA,#KG_A-C{
     display: none;
 }
-#UKG_MA,#UKG_GA,#UKG_EN{
+#UKG_MA,#UKG_GA,#UKG_EN,#LKG_GK,#LKG_E-G,#LKG_CA,#LKG_A-C{
     display: none;
 }
-#LKG_MA,#LKG_GA,#LKG_EN{
+#LKG_MA,#LKG_GA,#LKG_EN,#UKG_GK,#UKG_E-G,#UKG_CA,#UKG_A-C{
     display: none;
 }
-#G_1_MA,#G_1_GA,#G_1_EN{
+#G_1_MA,#G_1_GA,#G_1_EN,#G_1_GK,#G_1_E-G,#G_1_CA,#G_1_A-C{
     display: none;
 }
-#G_2_MA,#G_2_GA,#G_2_EN{
+#G_2_MA,#G_2_GA,#G_2_EN,#G_2_GK,#G_2_E-G,#G_2_CA,#G_2_A-C{
     display: none;
 }
-#G_3_MA,#G_3_GA,#G_3_EN,#G_3_SI,#G_3_SO{
+#G_3_MA,#G_3_GA,#G_3_EN,#G_3_SI,#G_3_SO,#G_3_GK,#G_3_E-G,#G_3_CA,#G_3_A-C{
     display: none;
 }
-#G_4_MA,#G_4_GA,#G_4_EN,#G_4_SI,#G_4_SO{
+#G_4_MA,#G_4_GA,#G_4_EN,#G_4_SI,#G_4_SO,#G_4_GK,#G_4_E-G,#G_4_CA,#G_4_A-C{
     display: none;
 }
-#G_5_MA,#G_5_GA,#G_5_EN,#G_5_SI,#G_5_SO{
+#G_5_MA,#G_5_GA,#G_5_EN,#G_5_SI,#G_5_SO,#G_5_GK,#G_5_E-G,#G_5_CA,#G_5_A-C{
     display: none;
 }
 
